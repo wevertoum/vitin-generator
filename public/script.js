@@ -9,7 +9,7 @@ const characterMap = {
   H: "卄",
   I: "ᓰ",
   J: "j",
-  K: "k",
+  K: "K",
   L: "ᒪ",
   M: "ᗰ",
   N: "n",
